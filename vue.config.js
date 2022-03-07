@@ -4,5 +4,5 @@ module.exports = defineConfig({
 })
 
 module.exports = {
-  publicPath: '/dist/'
+  publicPath: '/0307_vue3cli/dist/'
 }
